@@ -1,0 +1,42 @@
+- twilightforest:clearing:
+  readable_name: "Clearing (Twilight Forest)"
+- twilightforest:dark_forest:
+  readable_name: "Dark Forest (Twilight Forest)"
+- twilightforest:dark_forest_center:
+  readable_name: "Dark Forest Center (Twilight Forest)"
+- twilightforest:dense_forest:
+  readable_name: "Dense Forest (Twilight Forest)"
+- twilightforest:dense_mushroom_forest:
+  readable_name: "Dense Mushroom Forest (Twilight Forest)"
+- twilightforest:enchanted_forest:
+  readable_name: "Enchanted Forest (Twilight Forest)"
+- twilightforest:final_plateau:
+  readable_name: "Final Plateau (Twilight Forest)"
+- twilightforest:fire_swamp:
+  readable_name: "Fire Swamp (Twilight Forest)"
+- twilightforest:firefly_forest:
+  readable_name: "Firefly Forest (Twilight Forest)"
+- twilightforest:forest:
+  readable_name: "Forest (Twilight Forest)"
+- twilightforest:glacier:
+  readable_name: "Glacier (Twilight Forest)"
+- twilightforest:highlands:
+  readable_name: "Highlands (Twilight Forest)"
+- twilightforest:lake:
+  readable_name: "Lake (Twilight Forest)"
+- twilightforest:mushroom_forest:
+  readable_name: "Mushroom Forest (Twilight Forest)"
+- twilightforest:oak_savannah:
+  readable_name: "Oak Savannah (Twilight Forest)"
+- twilightforest:snowy_forest:
+  readable_name: "Snowy Forest (Twilight Forest)"
+- twilightforest:spooky_forest:
+  readable_name: "Spooky Forest (Twilight Forest)"
+- twilightforest:stream:
+  readable_name: "Stream (Twilight Forest)"
+- twilightforest:swamp:
+  readable_name: "Swamp (Twilight Forest)"
+- twilightforest:thornlands:
+  readable_name: "Thornlands (Twilight Forest)"
+- twilightforest:underground:
+  readable_name: "Underground (Twilight Forest)"
