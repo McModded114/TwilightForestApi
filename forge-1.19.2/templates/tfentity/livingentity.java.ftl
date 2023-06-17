@@ -50,6 +50,10 @@ import javax.annotation.Nullable;
 	<#assign extendsClass = data.mobBehaviourType?replace("Mob", "Monster")?replace("Creature", "PathfinderMob")>
 </#if>
 
+<#if data.itfCharger>
+	<#assign extendsClass = "ITFCharger">
+</#if>
+
 <#if data.breedable>
 	<#assign extendsClass = "Animal">
 </#if>
@@ -58,7 +62,7 @@ import javax.annotation.Nullable;
 	<#assign extendsClass = "TamableAnimal">
 </#if>
 
-public class ${name}Entity extends ${extendsClass} <#if data.ranged>implements RangedAttackMob</#if><#if data.itfCharger>implements ITFCharger</#if> {
+public class ${name}Entity extends ${extendsClass} <#if data.ranged>implements RangedAttackMob</#if> {
 
 	<#if data.isBoss>
 	private final ServerBossEvent bossInfo = new ServerBossEvent(this.getDisplayName(),
