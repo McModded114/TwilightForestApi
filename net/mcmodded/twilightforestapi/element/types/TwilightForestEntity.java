@@ -80,7 +80,7 @@ import java.util.*;
 	public int xpAmount;
 	public boolean waterMob;
 	public boolean flyingMob;
-  public boolean itfCharger;
+        public boolean itfCharger;
 
 	public String guiBoundTo;
 	public int inventorySize;
