@@ -2,7 +2,7 @@
   "id": "twilight_forest_api",
   "minversion": 202300100000,
   "weight": 3001,
-  "javaplugin": "net.twilightforestapi.Launcher",
+  "javaplugin": "net.mcmodded.twilightforestapi.Launcher",
   "info": {
     "name": "Twilight Forest Api Plugin",
     "version": "1.3.0",
