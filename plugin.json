@@ -1,0 +1,12 @@
+{
+  "id": "twilight_forest_api",
+  "minversion": 202300100000,
+  "weight": 3001,
+  "javaplugin": "net.twilightforestapi.Launcher",
+  "info": {
+    "name": "Twilight Forest Api Plugin",
+    "version": "1.3.0",
+    "description": "Adds the twilight forest mod to datalists and to runtime. 1.19.4, 1.19.2 forge",
+    "author": "McModded114"
+  }
+}
