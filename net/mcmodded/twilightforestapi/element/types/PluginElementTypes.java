@@ -8,7 +8,7 @@ package net.mcmodded.twilightforestapi.element.types;
 import net.mcreator.element.BaseType;
 import net.mcreator.element.ModElementType;
 import net.mcreator.element.ModElementTypeLoader;
-import net.nerdypuzzle.curios.ui.modgui.TwilightForestEntityGUI;
+import net.mcmodded.twilightforestapi.ui.modgui.TwilightForestEntityGUI;
 
 public class PluginElementTypes {
     public static ModElementType<?> TWILIGHTFORESTENTITY;
