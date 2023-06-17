@@ -51,7 +51,7 @@ import javax.annotation.Nullable;
 </#if>
 
 <#if data.itfCharger>
-	<#assign extendsClass = "ITFCharger">
+	<#assign extendsClass = "Minotaur">
 </#if>
 
 <#if data.breedable>
